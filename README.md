@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haydencanobra
-- 👀 I’m interested in ai, data science, human behavior, predictions
+- 👀 I’m interested in AI, data science, human behavior, forecasting and modelling
 - 🌱 I’m currently learning python & data science
 - 💞️ I’m looking to collaborate on earn my life
 
