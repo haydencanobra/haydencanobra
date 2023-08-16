@@ -1,3 +1,4 @@
+This is my readme.md file del reporitorio haydencanobra
 - 👋 Hi, I’m @haydencanobra
 - 👀 I’m interested in AI, data science, human behavior, forecasting and modelling
 - 🌱 I’m currently learning python & data science
